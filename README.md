@@ -8,12 +8,16 @@ A Starting project for future TDD projects in Flutter-Dart and representation of
 
 <img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png">
 
+## Features
+
+- **Auth**: Auth Feature.
+
 ## Required Folder Structure.
 ```
 ├───lib/
 │   ├───core/
 │   ├───features/
-│   │   └───number_trivia/
+│   │   └───auth/
 │   │       ├───data/
 │   │       │   ├───datasources/
 │   │       │   ├───models/
