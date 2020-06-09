@@ -29,4 +29,5 @@ A Starting project for future TDD projects in Flutter-Dart and representation of
 .   └───main.dart
 ```
 
-Simple Demonstration of Folder Structure as per Clean Architecture
+Simple Demonstration of Folder Structure as per Clean Architecture. 
+All thanks to [ResoCoder](https://resocoder.com/)
