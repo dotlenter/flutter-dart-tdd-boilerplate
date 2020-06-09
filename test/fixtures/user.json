@@ -1,0 +1,22 @@
+{
+    "user": {
+        "role": "admin",
+        "userimage": "/public/user_images/no_image.png",
+        "blocked": false,
+        "subs": "free",
+        "email": "admhanap@gmail.com",
+        "name": "admin john",
+        "birthdate": "1991-06-14T15:00:00.000Z",
+        "id": "5ed4e47ad0c9ec2a082def10"
+    },
+    "tokens": {
+        "access": {
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZWQ0ZTQ3YWQwYzllYzJhMDgyZGVmMTAiLCJpYXQiOjE1OTE0NTA5ODUsImV4cCI6MTU5MTQ1Mjc4NX0.SVBWLuwitXaEmKL0yyCooCceFYbXo96vgfE4eZ-CkWo",
+            "expires": "2020-06-06T14:13:05.428Z"
+        },
+        "refresh": {
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZWQ0ZTQ3YWQwYzllYzJhMDgyZGVmMTAiLCJpYXQiOjE1OTE0NTA5ODUsImV4cCI6MTU5NDA0Mjk4NX0.qCl-ZM_-mk-ND1iI7MDaDcWDZUp2pGbDxEQ_OKG4HeM",
+            "expires": "2020-07-06T13:43:05.450Z"
+        }
+    }
+}
