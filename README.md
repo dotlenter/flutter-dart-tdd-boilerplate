@@ -1,21 +1,32 @@
-<<<<<<< HEAD
-# flutter-dart-tdd-boilerplate
-A starting project with the necessary boilerplate for next flutter-dart TDD projects.
-=======
-# flutter_dart_tdd_boilerplate
+# Flutter-Dart Test Driven Architecture boilerplate
 
-A new Flutter project.
+A Starting project for future TDD projects in Flutter-Dart and representation of Uncle Bob's Clean Architecture.
 
-## Getting Started
+<img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2019/08/CleanArchitecture.jpg" alt="Clean Architecture" width="500"/>
 
-This project is a starting point for a Flutter application.
+# Final Architecture
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Required Folder Structure.
+```
+├───lib/
+│   ├───core/
+│   ├───features/
+│   │   └───number_trivia/
+│   │       ├───data/
+│   │       │   ├───datasources/
+│   │       │   ├───models/
+│   │       │   └───repositories/
+│   │       ├───domain/
+│   │       │   ├───entities/
+│   │       │   ├───repositories/
+│   │       │   └───usecases/
+│   │       └───presentation/
+│   │           ├───bloc/
+│   │           ├───pages/
+│   │           └───widgets/
+.   └───main.dart
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> Initial Files
+Simple Demonstration of Folder Structure as per Clean Architecture
